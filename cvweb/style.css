@@ -1,0 +1,110 @@
+header{
+    justify-content: space-between;
+    background-color: rgb(8, 8, 92);
+    text-align: center;
+
+}
+.barra-navegacion {
+    text-align: center;
+}
+.red {
+    color: red;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.white {
+    color: white;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;.
+}
+
+.encabezado {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+#head-icon1 {
+    width: 250px;
+}
+#head-icon2 {
+    width: 115px;
+}
+/*PARTE SUPERIOR DE LA WEB*/
+
+/*.titulouefa{
+    float: left;
+    width: 190px;
+    height: 90px;
+    color: white;
+    margin-left: 100px;
+}
+
+.logouefa{
+    float: right;
+    width: 90px;
+    height: 90px;
+    margin-right: 80px;
+}
+*/
+.corrupt{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contact{
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.hr{
+    border: none;
+    border-top: 2px solid black;
+    width: 100%;
+}
+
+/*PARTE CENTRAL DE LA PÁGINA WEB*/
+
+body {
+    margin: 10px;
+    margin-top: 20px;
+    padding: 0;
+    background-color:  #020b69;
+}
+.container1{
+    background-color: rgb(12, 12, 73);
+    justify-content: space-around;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ford {
+    width: 200px;
+}
+#heineken {
+    width: 200px;
+}
+#mastercard {
+    width: 200px;
+}
+#playstation {
+    width: 200px;
+}
+#lays {
+    width: 200px;
+}
+#yo{
+    border: white 2px solid;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+/*Parte inferior de la web*/
+
